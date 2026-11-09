@@ -7,6 +7,29 @@ Inspired by:
 * ChatGPT et al.
 * PG Tips
 
+## Usage
+
+Import and ask a question:
+
+```
+from chatPGTips import chatPGTips            # Import
+myMonkey = chatPGTips()                      # Init
+myMonkey.ask("What is the answer monkey?")   # Ask a question!
+```
+
+Additional class methods include:
+
+```
+myMonkey.who()
+myMonkey.what()
+myMonkey.where()
+myMonkey.why()
+myMonkey.when()
+myMonkey.how()
+myMonkey.decide()
+myMonkey.surpriseMe()
+```
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
