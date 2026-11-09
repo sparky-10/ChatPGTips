@@ -7,6 +7,10 @@ Inspired by:
 * ChatGPT et al.
 * PG Tips
 
+## Try
+
+Interact with a working online version [here](https://sparky-10.github.io/code/pyscript-examples/code-in-my-console/).
+
 ## Usage
 
 Import and ask a question:
